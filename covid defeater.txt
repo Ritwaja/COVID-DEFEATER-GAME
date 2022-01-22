@@ -1,0 +1,8 @@
+Covid Defeater
+Characters-Harry,covid19,masks,sanitizer
+Goal-Reach the House without getting infected
+Rules-Whenever Covid touches Harry , he lose his life count(total lc=3)
+      whenever Harry collects masks and sanitizer, he will earn points.
+      whenever Harry loses his 3 life count, the game will be over.
+      whenever Harry 150 points, then he will reach home and win the game.
+Feedback-score,life count, text shown when lc is 0,text shown when harry reaches home
